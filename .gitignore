@@ -1,4 +1,4 @@
 # Ignore folder named logistic
 
 logistic/
-
+.ipynb_checkpoints/
